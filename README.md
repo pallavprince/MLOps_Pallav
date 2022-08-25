@@ -10,6 +10,5 @@ This repository on git for Assignment and Project of MLOps
 
 <<<<<<< HEAD
 #git push test on 25 Aug 2022...
-=======
-#git push test on 25 Aug 22
->>>>>>> 88fb11e671e9c5fce16dc195ec4a7a46435646ff
+
+
