@@ -8,4 +8,4 @@ This repository on git for Assignment and Project of MLOps
 # Added a file and then deleted
 # Now I amtrying to update this README.md File on git using terminal
 
-#git push test on 25 Aug 2022
+#git push test on 25 Aug 2022.
